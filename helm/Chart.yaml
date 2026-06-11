@@ -1,0 +1,14 @@
+apiVersion: v2
+name: sd-documentary-collection
+description: "BIAN Service Domain: Documentary Collection (Process pattern, Operations and Execution)"
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
+keywords:
+  - bian
+  - process
+annotations:
+  bian/business-area: "Operations and Execution"
+  bian/business-domain: "Trade Banking"
+  bian/asset-type: "Documentary Collection"
+  bian/control-record: "Documentary Collection Procedure"
